@@ -2,11 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://64.media.tumblr.com/ed58e9cf2e9343689d70aee3a8db2d92/43063f356b18b1b6-e5/s540x810/020750728be3ddcf137a9d9079ede7326f1e889d.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -19,6 +15,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="150" src="https://64.media.tumblr.com/ed58e9cf2e9343689d70aee3a8db2d92/43063f356b18b1b6-e5/s540x810/020750728be3ddcf137a9d9079ede7326f1e889d.gif"  />
 
 ###
 
@@ -39,5 +41,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/KirtanNarola13/KirtanNarola13/output/snake.svg" alt="Snake animation" />
 
 ###
