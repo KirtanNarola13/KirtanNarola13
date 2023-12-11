@@ -20,11 +20,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://64.media.tumblr.com/ed58e9cf2e9343689d70aee3a8db2d92/43063f356b18b1b6-e5/s540x810/020750728be3ddcf137a9d9079ede7326f1e889d.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/http.kirtan/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
@@ -44,6 +40,14 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/KirtanNarola13/KirtanNarola13/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://64.media.tumblr.com/ed58e9cf2e9343689d70aee3a8db2d92/43063f356b18b1b6-e5/s540x810/020750728be3ddcf137a9d9079ede7326f1e889d.gif"  />
+</div>
 
 ###
