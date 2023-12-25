@@ -42,11 +42,6 @@
 
 <br clear="both">
 
-<!-- GitHub Readme Stats -->
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 
 ###
