@@ -40,12 +40,6 @@
 
 ###
 
-<br clear="both">
-
-
-
-###
-
 <div align="center">
   <img height="200" src="https://64.media.tumblr.com/ed58e9cf2e9343689d70aee3a8db2d92/43063f356b18b1b6-e5/s540x810/020750728be3ddcf137a9d9079ede7326f1e889d.gif"  />
 </div>
