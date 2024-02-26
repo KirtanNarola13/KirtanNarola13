@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/KirtanNarola13/KirtanNarola13/assets/133342879/2ec27f61-a24c-4164-b041-5aa4579839b4"/>
+  <img height="200" src="https://github.com/KirtanNarola13/KirtanNarola13/assets/133342879/19b67be3-655d-426a-a657-f1fbd93532f3"/>
 </div>
 
 ###
